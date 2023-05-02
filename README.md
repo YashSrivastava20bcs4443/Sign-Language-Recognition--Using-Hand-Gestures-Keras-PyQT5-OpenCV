@@ -1,0 +1,1 @@
+# Sign-Language-Recognition--Using-Hand-Gestures-Keras-PyQT5-OpenCV
